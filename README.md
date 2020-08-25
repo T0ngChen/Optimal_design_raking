@@ -1,2 +1,1 @@
-# Optimal-design-of-generalised-raking
-sim of the optimal design for raking
+# Optimal design for the generalised raking estimator in two-phase sampling
